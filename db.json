@@ -1,0 +1,40 @@
+{
+	"posts": [
+	{
+		"id": 1,
+		"title": "How to cook traditional beef pho",
+		"body": "Tutorial detail how to cook trasditional beef pho"
+	},
+	{
+		"id": 2,
+		"title": "Travel Da Lat",
+		"body": "Experience travel Da Lat, Those place and food might through",
+		"base64Image": ""
+	},
+	{
+		"id": 3,
+		"title": "Tutorial use flutter",
+		"body": "Introduction and tutorial base about way use flutter help development application mobile",
+		"base64Image": ""
+	}
+	],
+	"users": [
+	{
+		"username": "arty 1",
+		"password": "123456",
+		"fullname": "PHL Arty 1"
+	},
+	{
+		"username": "arty 2",
+		"password": "123456",
+		"fullname": "PHL Arty 2"
+	},
+	{
+		"username": "arty 3",
+		"password": "123456",
+		"fullname": "PHL Arty 3"
+	}
+	]
+	
+
+}
